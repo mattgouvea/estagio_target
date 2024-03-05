@@ -1,0 +1,5 @@
+1 - Deixaria apenas um interruptor ligado, e iria até a sala 1
+2 - Se a sala tivesse com a luz apagada, o interruptor não controla essa lâmpada
+3 - Ligaria outro interruptor, e iria até a sala 2
+4 - Se a lâmpada estivesse apagada, o interruptor 1 e o 2 não controlam essa lâmpada, e sim o interruptor 3
+5 - Se a lâmpada estivesse ligada, o interruptor 2 controla essa lâmpada, e o 3 controla a lâmpada da sala não visitada
